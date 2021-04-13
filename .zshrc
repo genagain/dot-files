@@ -118,6 +118,3 @@ alias gm='git merge'
 alias ga='git add'
 alias grh='git reset HEAD'
 alias gd='git diff'
-alias vfs='vim $(fzf)'
-
-[ -f ~/.fzf.zsh ] && source ~/.fzf.zsh

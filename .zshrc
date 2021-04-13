@@ -98,6 +98,7 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 export PATH=/Users/genohta/Library/Python/2.7/bin:$PATH
 
+alias c='clear'
 alias gco='git checkout'
 alias gcob='git checkout -b'
 alias gcl='git clone'

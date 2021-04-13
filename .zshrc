@@ -97,6 +97,7 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 export PATH=/Users/genohta/Library/Python/2.7/bin:$PATH
+export PATH=/opt/homebrew/bin:$PATH
 
 alias c='clear'
 alias gco='git checkout'
